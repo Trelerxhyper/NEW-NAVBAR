@@ -31,3 +31,6 @@ li{
     display: inline block; 
     
 } 
+li:hover{
+    color: gold;
+}
